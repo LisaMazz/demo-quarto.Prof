@@ -4,7 +4,11 @@ theme_set(theme_bw(14))
 
 # Simulations simple pour la relation entre coefficient de partage n-octanol et toxictité
 
+<<<<<<< HEAD
 LALALAAAA
+=======
+
+>>>>>>> d0a7a96420004662590a84842f2a8d160357610b
 # n_compo # nombre de composés
 # logKow  # vecteur de Kow
 # b0 # Ordonnée à l'origine
